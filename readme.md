@@ -9,12 +9,8 @@ Conversion des VAG en WAV (PCM) avec vgmstream.
 
 ###KH1
 Similarité :
-
 Echo aïgue (terrain ouvert) : al_x = aw_x = he_x = po_x = pp_x = tw_x = tz_x (sauf alliés)
-
 Echo simple (qui est dans les autres aussi) : ew_x = di_x = nm_x = pc_x = pi_x (sauf alliés)
 
-
 Pas de similarité :
-
 Double echo + étouffé : lm_x
