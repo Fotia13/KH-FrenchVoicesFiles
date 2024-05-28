@@ -14,7 +14,7 @@ Similarité :
 
 Pas de similarité :
  - Double echo + étouffé : lm_x
-
+--------------------------------------------
  - ex = In General
  - tw = Traverse Town
  - he = Olympus Coliseum
