@@ -19,21 +19,21 @@ Pas de similarité :
 
 Double echo + étouffé : lm_x
 
-ex = In General
-tw = Traverse Town
-he = Olympus Coliseum
-nm = Halloween Town
-al = Agrabah
-di = Destiny Islands
-dc = Disney Castle
-aw = Wonderland
-ew = World of Chaos
-lm = Atlantica
-pc = Hollow Bastion/End of the World
-pi = Monstro
-tz = Deep Jungle
-po = 100 Acre Wood
-pp = Neverland
+ - ex = In General
+ - tw = Traverse Town
+ - he = Olympus Coliseum
+ - nm = Halloween Town
+ - al = Agrabah
+ - di = Destiny Islands
+ - dc = Disney Castle
+ - aw = Wonderland
+ - ew = World of Chaos
+ - lm = Atlantica
+ - pc = Hollow Bastion/End of the World
+ - pi = Monstro
+ - tz = Deep Jungle
+ - po = 100 Acre Wood
+ - pp = Neverland
 
 Exemple : xa_[world name]_[number].mdls = Name of the character
 List :
