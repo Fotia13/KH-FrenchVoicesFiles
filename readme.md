@@ -1,13 +1,18 @@
-Extraction des fichiers de Kingdom Hearts (PAL) (Fr) (SCES 50968) avec KH1 ISOMaker.exe V2.0.0.0 de CrazyCatz00 modifié le 07/10/2013 04:57 UTC+1
+## Introduction
+Vous avez ici *toutes les voix françaises officielles* de la série **Kingdom Hearts** écoutable.
 
-Extraction des fichiers de Kingdom Hearts II (PAL) (Fr) (SLES 54232) avec KH2FM_Toolkit_dev.exe V2.9.5.0 de GovanifY modifié le 17/08/2017 02:16
+### Procédé
 
-Extraction des VAG des DAT, MDLS, VSB et VSET avec VAGExtractor.exe V1.0.0.0 de Noxalus modifié le 09/05/2021 14:32
+Extraction des fichiers de **Kingdom Hearts (PAL) (Fr) (SCES 50968)** avec **KH1 ISOMaker.exe** V2.0.0.0 de CrazyCatz00 modifié le 07/10/2013 04:57 UTC+1
 
-Conversion des VAG en WAV (PCM) avec vgmstream.
+Extraction des fichiers de **Kingdom Hearts II (PAL) (Fr) (SLES 54232)** avec **KH2FM_Toolkit_dev.exe** V2.9.5.0 de GovanifY modifié le 17/08/2017 02:16
 
+Extraction des fichiers VAG des fichiers DAT, MDLS, VSB et VSET avec **VAGExtractor.exe** V1.0.0.0 de Noxalus modifié le 09/05/2021 14:32
 
-### KH1
+Conversion des fichiers VAG en fichier WAV (PCM) avec **vgmstream**.
+
+## Listes
+### Kingdom Hearts 1
 Similarité :
  - Echo aïgue (terrain ouvert) : al_x = aw_x = he_x = po_x = pp_x = tw_x = tz_x (sauf alliés)
  - Echo simple (qui est dans les autres aussi) : ew_x = di_x = nm_x = pc_x = pi_x (sauf alliés)
@@ -75,8 +80,8 @@ List :
  - xs_mushu.dat
 
 
-### KH2
-http://www.kh-vids.net/archive/index.php/t-9601.html
+### Kingdom Hearts 2
+source : http://www.kh-vids.net/archive/index.php/t-9601.html
 
  - 0001=M_EX060:Böllerwampe / Fat Bandit (Gegner! / Enemy!)
  - 0002=M_EX500:Schizo-Spuk / Trick Ghost (Gegner! / Enemy!)
