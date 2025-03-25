@@ -13,6 +13,13 @@ Conversion des fichiers VAG en fichier WAV (PCM) avec **vgmstream**.
 
 ## Listes
 ### Kingdom Hearts 1
+Les dossiers sont ordonnés par type de fichier :
+ - DAT = fichiers se terminant en .dat qui sont dans notre cas les invocations
+ - unused = fichiers qui sont inutilisés dans le jeu mais toujours présents, souvent en japonais et des fois en anglais
+ - MDLS = dossier des modèles mais la logique Square Soft fait que les voix des boss sont dedans... et jasmine... et les enfants des îles... bref liste plus bas
+ - VSB = voix en combat mais que les gentils, logique Square...
+ - VSET = voix en cinématique (l'ordre fait aucun sens souvent)
+
 Similarité :
  - Echo aïgue (terrain ouvert) : al_x = aw_x = he_x = po_x = pp_x = tw_x = tz_x (sauf alliés)
  - Echo simple (qui est dans les autres aussi) : ew_x = di_x = nm_x = pc_x = pi_x (sauf alliés)
@@ -42,45 +49,47 @@ List :
  - xa_al_1020.mdls = Iago
  - xa_al_3010.mdls = Jafar
  - xa_al_3020.mdls = Genie Jafar
- - xa_aw_1010.mdls = Heart Queen
+ - xa_aw_1010.mdls = Reine de cœur / Queen of Heart
  - xa_di_1010.mdls = Tidus
  - xa_di_1020.mdls = Selphie
  - xa_di_1030.mdls = Wakka
  - xa_ew_3020.mdls = Final Ansem
  - xa_ex_1010.mdls = Riku with wooden sword
  - xa_ex_1030.mdls = Leon/Squall
- - xa_ex_1040.mdls = Youffie
- - xa_ex_1090.mdls = Maleficient
+ - xa_ex_1040.mdls = Yuffie / Youffie
+ - xa_ex_1090.mdls = Maléfique / Maleficient
  - xa_ex_1150.mdls = Cloud
  - xa_ex_1160.mdls = Riku with Keyblade of heart maybe not finished
  - xa_ex_1560.mdls = Riku with soul eater
  - xa_ex_1580.mdls = Riku-Ansem
  - xa_ex_1630.mdls = Ansem
  - xa_ex_2170.mdls = Jasmine in Pot Centipede (brighter color maybe Olympus Coliseum prototype)
- - xa_ex_2172.mdls = Jasmine in Pot Centipede
+ - xa_ex_2172.mdls = Jasmine dans le Mille-pots / Jasmine in Pot Centipede
  - xa_ex_3000.mdls = Sephiroth
  - xa_ex_4010.mdls = Hercule
  - xa_ex_4040.mdls = Genie
- - xa_ex_4042.mdls = Genie
- - xa_ex_4060.mdls = Mushu
+ - xa_ex_4042.mdls unused! = Genie
+ - xa_ex_4060.mdls unused! = Mushu
  - xa_he_1010.mdls = Hades
  - xa_lm_1050.mdls = Ursula
  - xa_lm_3000.mdls = Ursula Giant
  - xa_lm_3020.mdls = Floatsam or Jetsam
- - xa_nm_1030.mdls = Am
- - xa_nm_1040.mdls = Stram
- - xa_nm_1050.mdls = Gram
+ - xa_nm_1030.mdls = Am / Lock
+ - xa_nm_1040.mdls = Stram / Shock
+ - xa_nm_1050.mdls = Gram / Barrel
  - xa_nm_3000.mdls = Oogie Boogie
- - xa_pi_1000.mdls = Pinochio in Parasite Cage
- - xa_pp_3000.mdls = Captain Hook
+ - xa_pi_1000.mdls = Pinochio dans le Parasitocage / Pinochio in Parasite Cage
+ - xa_pp_3000.mdls = Capitaine Crochet / Captain Hook
  - xa_tz_3010.mdls = Clayton
- - xa_tz_3020.mdls = Clayton
- - xa_tz_3040.mdls = Clayton
+ - xa_tz_3020.mdls = Clayton avec le Furtif / Clayton with Stealth Sneak
+ - xa_tz_3040.mdls unused! = Clayton mais c'est que le Furtif pour le Colisée de l'Olympe / Clayton but it's only Stealth Sneak
  - xs_genie.dat
  - xs_mushu.dat
 
 
 ### Kingdom Hearts 2
+Les fichiers sont organisés telles qu'elles sont extraites.
+Liste venant de kh-vids (allemand / anglais) :
 source : http://www.kh-vids.net/archive/index.php/t-9601.html
 
  - 0001=M_EX060:Böllerwampe / Fat Bandit (Gegner! / Enemy!)
