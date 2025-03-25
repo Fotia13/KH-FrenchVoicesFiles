@@ -1,7 +1,7 @@
-## Introduction
+# Introduction
 Vous avez ici *toutes les voix françaises officielles* de la série **Kingdom Hearts** écoutable.
 
-### Procédé
+## Procédé
 
 Extraction des fichiers de **Kingdom Hearts (PAL) (Fr) (SCES 50968)** avec **KH1 ISOMaker.exe** V2.0.0.0 de CrazyCatz00 modifié le 07/10/2013 04:57 UTC+1
 
@@ -11,8 +11,8 @@ Extraction des fichiers VAG des fichiers DAT, MDLS, VSB et VSET avec **VAGExtrac
 
 Conversion des fichiers VAG en fichier WAV (PCM) avec **vgmstream**.
 
-## Listes
-### Kingdom Hearts 1
+# Listes
+## Kingdom Hearts 1
 Les dossiers sont ordonnés par type de fichier :
  - DAT = fichiers se terminant en .dat qui sont dans notre cas les invocations
  - unused = fichiers qui sont inutilisés dans le jeu mais toujours présents, souvent en japonais et des fois en anglais
@@ -20,30 +20,34 @@ Les dossiers sont ordonnés par type de fichier :
  - VSB = voix en combat mais que les gentils, logique Square...
  - VSET = voix en cinématique (l'ordre fait aucun sens souvent)
 
-Similarité :
+### Liste des mondes :
+ - ex = Quand Square ne sait pas ranger / In General
+ - tw = Ville de Traverse / Traverse Town
+ - he = Colisée de l'Olympe / Olympus Coliseum
+ - nm = Ville d'Halloween / Halloween Town
+ - al = Agrabah
+ - di = Les Îles du Destin / Destiny Islands
+ - dc = Château Disney / Disney Castle
+ - aw = Pays des merveilles / Wonderland
+ - ew = Monde Chaotique (Ansem) / World of Chaos
+ - lm = Atlantica
+ - pc = Forteresse Oubliée (il y a la fin du monde aussi?) / Hollow Bastion/End of the World
+ - pi = Monstro
+ - tz = Jungle Profonde / Deep Jungle
+ - po = Forêt des Rêves Bleus / 100 Acre Wood
+ - pp = Pays Imaginaire / Neverland
+
+
+### VSB
+Similarité dans les VSB :
  - Echo aïgue (terrain ouvert) : al_x = aw_x = he_x = po_x = pp_x = tw_x = tz_x (sauf alliés)
  - Echo simple (qui est dans les autres aussi) : ew_x = di_x = nm_x = pc_x = pi_x (sauf alliés)
 
 Pas de similarité :
  - Double echo + étouffé : lm_x
---------------------------------------------
- - ex = In General
- - tw = Traverse Town
- - he = Olympus Coliseum
- - nm = Halloween Town
- - al = Agrabah
- - di = Destiny Islands
- - dc = Disney Castle
- - aw = Wonderland
- - ew = World of Chaos
- - lm = Atlantica
- - pc = Hollow Bastion/End of the World
- - pi = Monstro
- - tz = Deep Jungle
- - po = 100 Acre Wood
- - pp = Neverland
 
-Exemple : xa_[world name]_[number].mdls = Name of the character
+### MDLS
+Exemple : xa_[world name]_[number].mdls = Nom du personnage / Name of the character
 
 List :
  - xa_al_1020.mdls = Iago
@@ -55,7 +59,7 @@ List :
  - xa_di_1030.mdls = Wakka
  - xa_ew_3020.mdls = Final Ansem
  - xa_ex_1010.mdls = Riku with wooden sword
- - xa_ex_1030.mdls = Leon/Squall
+ - xa_ex_1030.mdls = Leon|Squall
  - xa_ex_1040.mdls = Yuffie / Youffie
  - xa_ex_1090.mdls = Maléfique / Maleficient
  - xa_ex_1150.mdls = Cloud
@@ -87,7 +91,7 @@ List :
  - xs_mushu.dat
 
 
-### Kingdom Hearts 2
+## Kingdom Hearts 2
 Les fichiers sont organisés telles qu'elles sont extraites.
 Liste venant de kh-vids (allemand / anglais) :
 source : http://www.kh-vids.net/archive/index.php/t-9601.html
